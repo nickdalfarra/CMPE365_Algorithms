@@ -1,3 +1,3 @@
 # CMPE365_Algorithms
 Coursework completed for my algorithms course.
-Any lab or assignment work is posted after the class submission date.
+All assignment solutions are my own, and are posted after the submission date.
